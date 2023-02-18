@@ -4,5 +4,6 @@
 
 
 # quiz app
-
+1. do 10 quiz 
+2. coount the answer
 # weather app
